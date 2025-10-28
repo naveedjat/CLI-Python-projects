@@ -1,1 +1,1 @@
-# CLI Python-projects
+# tkinter Python-projects
