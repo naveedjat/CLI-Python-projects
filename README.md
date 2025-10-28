@@ -1,1 +1,1 @@
-# Python-project
+# CLI Python-projects
